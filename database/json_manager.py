@@ -1,0 +1,1 @@
+# Placeholder file if needed later for JSON saving/loading
